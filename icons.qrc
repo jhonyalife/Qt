@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>img/icons8-cardápio.svg</file>
+    <file>img/prescription.png</file>
+  </qresource>
+</RCC>
